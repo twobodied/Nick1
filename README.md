@@ -14,3 +14,13 @@ I'd like fear and indulge pivots in mass psychology.
 ![Getting Started](images/Banner.png)
 
 
+```python
+
+my_list = []
+
+val = 12.3
+
+print(f'{val:.2f}')
+print(f'{val:.5f}')
+
+```
